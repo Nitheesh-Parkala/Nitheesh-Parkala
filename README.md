@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitheesh-parkala" alt="nitheesh-parkala" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/nitheeshprabhu7?t=cegshoxpcqxgeno6xbwhog&s=03" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nitheeshprabhu7?t=cegshoxpcqxgeno6xbwhog&s=03?logo=twitter&style=for-the-badge" alt="https://twitter.com/nitheeshprabhu7?t=cegshoxpcqxgeno6xbwhog&s=03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/nitheeshprabhu7" target="blank"><img src="https://img.shields.io/twitter/follow/nitheeshprabhu7?logo=twitter&style=for-the-badge" alt="nitheeshprabhu7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/nitheeshprabhu7?t=cegshoxpcqxgeno6xbwhog&s=03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/nitheeshprabhu7?t=cegshoxpcqxgeno6xbwhog&s=03" height="30" width="40" /></a>
+<a href="https://twitter.com/nitheeshprabhu7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitheeshprabhu7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitheesh-prabhu-145881246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitheesh-prabhu-145881246/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitheesh_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitheesh_21" height="30" width="40" /></a>
 </p>
@@ -20,8 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitheesh-parkala&show_icons=true&locale=en&layout=compact" alt="nitheesh-parkala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitheesh-parkala&show_icons=true&locale=en" alt="nitheesh-parkala" /></p>
-
-
 
 <!--
 **Nitheesh-Parkala/Nitheesh-Parkala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
